@@ -26,5 +26,5 @@ int main() {
     }
   }
 
-  printf("%d", intervals);
+  printf("%d\n", intervals);
 }
